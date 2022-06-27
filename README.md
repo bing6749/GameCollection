@@ -1,0 +1,2 @@
+# GameCollection
+基于Java的JFrame和JDBC数据库连接的小游戏合集
