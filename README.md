@@ -1,3 +1,0 @@
-# GameCollection
-基于Java的JFrame和JDBC数据库连接的小游戏合集
-项目详细内容请看实训报告.pdf
