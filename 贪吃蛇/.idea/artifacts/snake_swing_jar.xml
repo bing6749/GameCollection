@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="snake-swing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/snake_swing_jar</output-path>
+    <root id="archive" name="snake-swing.jar">
+      <element id="module-output" name="snake-swing" />
+    </root>
+  </artifact>
+</component>

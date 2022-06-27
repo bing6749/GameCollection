@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/PlaneGameDemo/src/top/bing6749/plane/MyGameFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneGameDemo/src/top/bing6749/plane/MyMainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/BgObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/BossObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/BulletObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/EnemyObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/ExplodeObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/GameObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/GameWin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/PlaneObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PlaneWar/src/top/bing6749/ShellObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gobang/src/top/bing6749/ChessBoard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gobang/src/top/bing6749/Point.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/2.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/3.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/m2.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/m3.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/bing6749/Admin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/bing6749/GameHill.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/bing6749/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/top/bing6749/RegisterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/贪吃蛇/src/com/snake/GamePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/贪吃蛇/src/com/snake/StartGame.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

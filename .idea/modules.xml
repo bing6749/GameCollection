@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo2048/Demo2048.iml" filepath="$PROJECT_DIR$/Demo2048/Demo2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameCollection.iml" filepath="$PROJECT_DIR$/GameCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGameDemo/PlaneGameDemo.iml" filepath="$PROJECT_DIR$/PlaneGameDemo/PlaneGameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar/PlaneWar.iml" filepath="$PROJECT_DIR$/PlaneWar/PlaneWar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gobang/gobang.iml" filepath="$PROJECT_DIR$/gobang/gobang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/贪吃蛇/贪吃蛇.iml" filepath="$PROJECT_DIR$/贪吃蛇/贪吃蛇.iml" />
+    </modules>
+  </component>
+</project>
